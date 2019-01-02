@@ -3,4 +3,4 @@ prefix= .
 game= Type . help
 stayinchannel=true
 songinstatus=true 
-token=NTMwMDE0NjUyMjk0MjM0MTQz.Dw5OJw.kvHB2FrZ2mznnz1luG8sjfnTJho
+token=NTMwMDE0NjUyMjk0MjM0MTQz.Dw6CWA.ULZtHRzVXaxy0XZRf8eYsSy009Y
